@@ -25,7 +25,7 @@ Proceed to push that to your remote git repository on github.
 
     git push
 
-Write your sentence here:
+Write your sentence here: Tobias Gurl, checking in.
 
 
 ## 1. Play through the first three levels of [Manufactoria](http://pleasingfungus.com/Manufactoria/)
