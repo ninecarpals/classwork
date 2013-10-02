@@ -50,6 +50,8 @@ under the name 'manufactoria.png' (or whatever image format you
 prefer).  The third level in particular is a LOT trickier than the
 first two, so don't be surprised if it takes longer.
 
+manufactoria.png
+
 
 ## 2. Low-level programming
 
@@ -66,20 +68,20 @@ number stored in this slot":
     05: output [11]
     06:
     07:
-    10: 12
-    11: 15
-    12:
-    13:
-    14:
-    15:
-    16:
-    17:
+    10: 
+    11: 
+    12: 
+    13: 
+    14: 
+    15: 
+    16: 
+    17: 
 
 Feel free to use the above as space to actually work out the
-answer. What does this output?
+answer. What does this output? 1.
 
 Try the same program with some other inputs in slots 10 and 11.  What
-does this program compute?
+does this program compute? 1
 
 ## 3. Low-level programming II
 
@@ -117,18 +119,18 @@ Here's the program:
     05: MOV 13 12
     06: JNZ 10 02
     07: OUT 11
-    10: 6
-    11:
-    12:
-    13:
-    14:
-    15:
+    10: 5
+    11: 1
+    12: 1
+    13: 2
+    14: 1
+    15: 
     16:
     17:
 
-What does this output?
+What does this output? 1
 
-In general, what will this program output, given any input in slot 10?
+In general, what will this program output, given any input in slot 10? 1
 
 
 ## 4. Reading
@@ -140,8 +142,8 @@ Most readings for the beginning of the class will come from this textbook.  You 
 
 ## 5. Finally:
 
-How much time did this problem set take you?
+How much time did this problem set take you? Three hours.
 
-What, if anything, did you have trouble with?
+What, if anything, did you have trouble with? I really need the core tokens from the lecture written out for me. I can't take notes and follow along at the speed you're going because without greater context I don't know what's important enough to write down. Just having a pre-written vocabulary list to take home would be a wonder.
 
-What, from lecture, would you like us to cover more clearly?
+What, from lecture, would you like us to cover more clearly? I still don't understand how to submit assignments.
